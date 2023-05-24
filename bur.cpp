@@ -5,7 +5,7 @@
 
 int main() {
 	setlocale(LC_ALL, "RUS");
-	int a, b, c, d, e, func;
+	int a, b, c, d, e, y;
 	c = 10;
 	d = 2;
 	e = 5;
