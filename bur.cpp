@@ -11,7 +11,7 @@ int main() {
 	e = 5;
 	a = 6;
 	b = 3;
-	const char print[] = "Результат вычислений: %d\n";
+	const char output[] = "Результат вычислений: %d\n";
 
 	__asm {
 
